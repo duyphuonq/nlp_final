@@ -5,7 +5,7 @@
 3.&emsp;<b>git branch name origin/name</b> để tạo branch trên local track 1 branch trên remote, thay 'name' bằng tên ae đã thấy trong bước 2<br>
 4.&emsp;<b>git checkout name</b> để chuyển sang branch của ae.<br>
 5.&emsp;Luôn luôn <b>git status</b> để biết mình đang ở branch nào.<br>
-6.&emsp;Khi muốn push, <b>git push origin/name</b>, push đúng branch nhé. <br>
+6.&emsp;Khi muốn push, <b>git push origin name</b>, push đúng branch nhé. <br>
 7.&emsp;Lưu ý, ae đừng push vào branch master nhé!<br>
 8.&emsp;Commit nhớ ghi đã làm tới câu nào nhé!
 
